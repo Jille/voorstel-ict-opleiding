@@ -1,42 +1,8 @@
 Een School voor het Verfijnde Programmeerwerk
 =============================================
 
-Hoewel de programmeur
-zoals andere ambachtlieden
-vaak een voorliefde voor zijn vak heeft
-vereisen we 
-geen verfijndheid of creativiteit
-van haar
-maar een redelijk werkend product
-aan het einde van de dag.
-Het is dan ook niet verbazend dat 
-een scholier die een opleiding tot programmeur
-wil genieten zich tot de Hoge School moet wenden.
-Deze  _bottom-line_-houding is verstandig bij het bouwen van 
-een website voor de lokale voetbalvereniging
-maar niet bij het bouwen van de interne software van een bank.
-Van de programmeur die software bouwt
-waar onze samenleving wezenlijk van afhankelijk is
-moeten we niet alleen een werkend product verwachten
-maar ook bovenal een degelijk product.
-Misschien kunnen we haar het beste vergelijken met een tandarts:
-we willen niet alleen dat zij onze gaatjes vult,
-maar ook dat zij hierbij zo min mogelijk boort
-en dat de vullingen van de hoogste kwaliteit zijn.
-We willen niet alleen dat de tandarts complexe behandelingen
-beheerst en kan improviseren,
-maar ook dat zij dit alleen doet wanneer dit noodzakelijk is.
-Hoewel de tandarts betaald krijgt per behandeling willen we dat zij
-haar werk zo goed doet dat we haar maar weinig zien.
-Het is dan ook niet verbazend dat de beroepsopleiding
-van de tandarts, de notaris en psycholoog
-aan de universiteit gegeven wordt
-en wij menen dat er een universitaire opleiding tot
-programmeur zou moeten zijn.
-
-
-
-
-
-
+Over het algemeen ziet men de programmeur als technisch expert, en niet als een vakman die naast zijn technische vaardigheden ook nog creativiteit en verfijndheid aan de dag moet leggen. We verwachten van een programmeur vooral een wérkend product, en niet zoals bij een ambachtslieden ook een degelijk, elegant of duurzaam product. 
+Dit pragmatische uitgangspunt werkt prima voor de website van de lokale voetbalvereniging. Er is echter een andere aanpak nodig bij het ontwikkelen van de software die de banken en overheidsdiensten draaiende moet houden. 
+Misschien kunnen we een goede programmeur vergelijken met een chirurg. We willen niet alleen dat een chirurgische behandeling *afdoende* is, maar dat alle gebruikte gereedschappen en materialen van de hoogste kwaliteit zijn en dat de oplossing voor ons probleem niet slechts tijdelijk is. Hoewel een chirurg wordt betaald per behandeling, is het niet meer dan vanzelfsprekend we dat hij zijn werk zo goed mogelijk doet, zodanig dat we hem zo min mogelijk nodig hebben. We willen niet alleen dat een chirurg complexe behandelingen beheerst en kan improviseren, maar ook dat dit alleen gebeurd als het strikt noodzakelijk is. 
+Voor sommige projecten moet het vakmanschap van een programmeur even groot zijn als dat van een chirurg, tandheelkundige of notaris. Daarom zijn wij van mening dat het tijd is voor een programmeursopleiding op academisch niveau.
 
