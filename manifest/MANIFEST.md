@@ -28,3 +28,15 @@ groot zijn als dat van een chirurg, tandheelkundige of notaris.
 Daarom zijn wij van mening dat het tijd is voor een 
 programmeursopleiding op academisch niveau.
 
+Een opleiding van kwaliteit
+===========================
+
+Een van onze doelstellingen is om kwaliteit af te leveren. We willen dat
+een bedrijf een afgestudeerde zonder twijfels (van technische aard) aan
+kan nemen. Dat betekent niet dat iemand alles moet weten en kunnen maar
+dat iemand zich alles vrij snel meester moet kunnen maken. Hiervoor is
+bovenal ervaring nodig maar we zien ook waarde in het bijbrengen van de
+bouwstenen die het mogelijk maken te redeneren over nog onbekende concepten.
+
+Omdat we denken dat redeneren en creatieve oplossingen erg belangrijk zijn
+voor een programmeur willen we ook tijd besteden om dit te trainen [rephrase needed].
