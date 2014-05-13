@@ -11,7 +11,8 @@ Dit pragmatische uitgangspunt werkt prima voor de website van
 de lokale voetbalvereniging. 
 Er is echter een andere aanpak nodig bij het ontwikkelen van 
 de software die de banken en overheidsdiensten draaiende moet houden. 
-Misschien kunnen we een goede programmeur vergelijken met een chirurg. 
+
+We kunnen een goede programmeur vergelijken met een chirurg. 
 We willen niet alleen dat een chirurgische behandeling *afdoende* is, 
 maar dat alle gebruikte gereedschappen en materialen van de hoogste 
 kwaliteit zijn en dat de oplossing voor ons probleem niet slechts 
